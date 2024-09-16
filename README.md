@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Naty98
 - 👀 I’m interested in developing security tools and improving my coding skills.
-- 🌱 I’m currently learning about Python & C++.
+- 🌱 I’m currently continuing to improve my Python & C++ skills.
 - 💞️ I’m looking to collaborate on cybersecurity tools.
 - 📫 How to reach me : floresnatalia544@gmail.com
 
